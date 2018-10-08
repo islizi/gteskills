@@ -1,1 +1,1 @@
-# gteskills
+# getskills
